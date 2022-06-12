@@ -1,6 +1,6 @@
 # Track Elon Musk's jets - in rust
 
-With inpsiration from [twitter/@ElonJet](https://twitter.com/ElonJet), this app will print notifications
+With inspiration from [twitter/@ElonJet](https://twitter.com/ElonJet), this app will print notifications
 when one of Elon Musk's jets fly over your own ADS-B receiver ground station.
 
 # Run
@@ -13,7 +13,7 @@ Once that is running, use the following command to start this application:
 ```
 
 # Warning
-This is untested, since I don't live near Elon Musk.
+This is untested, since I don't live near Elon Musk :)
 
 # Usage
 ```
